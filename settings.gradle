@@ -1,0 +1,2 @@
+include ':app', ':hashtagandmentions'
+rootProject.name='HastagMentionLibrary'
